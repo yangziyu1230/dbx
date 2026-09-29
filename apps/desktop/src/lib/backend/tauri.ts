@@ -6108,3 +6108,4 @@ export async function exportQueryResultHtml(filePath: string, title: string | un
 export * from "@/lib/backend/mq-tauri";
 export * from "@/lib/backend/mqtt-tauri";
 export * from "@/lib/backend/nacos-tauri";
+// PL debug API is desktop-only; imported directly from "@/lib/backend/pl-debug-tauri".

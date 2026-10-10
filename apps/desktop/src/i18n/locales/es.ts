@@ -8449,6 +8449,8 @@ export default withEnglishFallback({
     shortcutScopeHintGrid: "Se aplica con la tabla de resultados enfocada",
     shortcutScopeHintSearch: "Se aplica con el campo de búsqueda enfocado",
     shortcutScopeHintSidebar: "Se aplica con la barra lateral enfocada",
+    shortcutScopeDebug: "Depurador de PL/SQL",
+    shortcutScopeHintDebug: "Se aplica mientras el depurador ocupa la pestaña activa",
     shortcutGroupCount: "{count} acciones",
     shortcutGroupCollapse: "Contraer grupo",
     shortcutGroupExpand: "Expandir grupo",
